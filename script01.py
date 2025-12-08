@@ -1,3 +1,2 @@
 print('Hi World')
-print('Nice to be here')
-print('What a beatiful day')
+print('What a beautyful day')
