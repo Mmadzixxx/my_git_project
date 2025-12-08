@@ -3,3 +3,4 @@ My project plan
 2.collect data
 3.setup environment
 4. Create data dictionary
+5. Setup AWS EC2 instance
