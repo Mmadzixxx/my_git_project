@@ -1,1 +1,1 @@
-print('What a beautyful day')
+print('What a wonderful day')
